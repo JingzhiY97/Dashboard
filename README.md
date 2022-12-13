@@ -1,2 +1,0 @@
-# Dashboard
-A simple dasboard
